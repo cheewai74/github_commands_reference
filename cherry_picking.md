@@ -1,5 +1,6 @@
 
-|| Step  || Command || Description||
+| Step  | Command | Description|
+|---|---|---|
 |1. Switch to the master branch  | git checkout master            |You need to be on the branch where you want to apply the commit.                                                                        |
 |2. Update your master branch    | git pull origin master         |It's always a good practice to have the latest version of the branch you're moving the commit to.                                       |
 |3. Find the commit hash         | git log project-pre-los-dev    | Look through the commit history of the project-pre-los-dev branch to find the specific commit you want to cherry-pick. Copy its hash.  |
