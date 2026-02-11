@@ -1,0 +1,6 @@
+```
+git rebase --abort
+git checkout <Any Safe Branch>   # or any safe branch
+git branch -D <local Branch>
+
+```
