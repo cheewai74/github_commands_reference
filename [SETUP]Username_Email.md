@@ -1,9 +1,11 @@
+
+For Checking:
 ```
-git config user.name "Your Name"
-git config user.email your_email@domain.com
+git config user.name
+git config user.email
 ```
 
-Choose these E.g::
+Register E.g:
 ```
 git config --global user.name "chee Wong"
 git config --global user.email "chee.wong@xxxxx.com"
